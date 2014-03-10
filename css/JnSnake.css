@@ -1,0 +1,18 @@
+td.grid{
+	width: 20px;
+	height: 20px;
+	text-align: center;
+	line-height: 20px;
+	cursor: pointer;
+	border: 1px solid gray;
+	font-weight: bold;
+}
+td.blank{
+	background-color: #ffffff;
+}
+td.snake{
+	background-color: #000000;
+}
+i.speed{
+	cursor: pointer;
+}
